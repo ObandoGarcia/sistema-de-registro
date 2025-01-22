@@ -1,5 +1,7 @@
 <h1>Repositorio de pruebas del Curso de Git de Alura Latam!</h1>
 
--Creando cuenta y repositorio
--Creando archivo readme.md
--Creando el primer archivo del repositorio
+<ol>
+  <li>Creando cuenta y repositorio</li>
+  <li>Creando archivo readme.md</li>
+  <li>Creando el primer archivo del repositorio</li>
+</ol>
