@@ -4,4 +4,5 @@
   <li>Creando cuenta y repositorio</li>
   <li>Creando archivo readme.md</li>
   <li>Creando el primer archivo del repositorio</li>
+  <li>Bajar datos desde el servidor remoto</li>
 </ol>
