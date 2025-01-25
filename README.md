@@ -13,3 +13,7 @@
 <p>Agregar las modificaciones al Git: git add . </p>
 <p>Enviar los cambios al servidor: git commit - m "descripcion del cambio"</p>
 <p>Enviar los archivos: git push</p>
+<p>Subir cambios al server: git push origin 'rama a actualizar'</p>
+<p>Cambiar de rama: git switch 'nombre de la rama'</p>
+<p>Ver el registro de cambios en la rama actual: git log --oneline</p>
+<p>Juntar ramas: git merge 'nombre de la rama a juntar con la actual'</p>
