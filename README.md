@@ -13,3 +13,5 @@
 <p>Agregar las modificaciones al Git: git add . </p>
 <p>Enviar los cambios al servidor: git commit - m "descripcion del cambio"</p>
 <p>Enviar los archivos: git push</p>
+<p>Ramas: git branch</p>
+<p>Crear una nueva rama: git checkout -b 'nombre'</p>
